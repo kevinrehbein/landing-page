@@ -46,9 +46,6 @@ section {
 }
 
 .section-one img {
-    max-width: 500px;
-    max-height: 500px;
-    object-fit: cover;
     margin-left: 40px;
   }
 
